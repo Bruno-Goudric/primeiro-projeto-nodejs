@@ -7,7 +7,8 @@
 Para o desenvolvimento do projeto foi utilizada uma stack com as seguintes tecnologias:
 
 - 💹 **Node Js** — Web framework que permite utilizar javascript tanto no frontend quanto no backend;
-     **TypeScript - TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem;
+     
+- 🚀 **TypeScript** - TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem;
     
 
 ## Desafio
